@@ -3,7 +3,11 @@
 💻 Software Engineer turned CS Master’s student     
 🤖 Into AI, Machine Learning & Distributed Systems       
 🛠️ Building micro-SaaS, side projects & experiments      
-📊 Learning by breaking things, fixing them, and documenting the chaos      
+📊 Learning by breaking things, fixing them, and documenting the chaos  
+
+
+![GitHub stats](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat)
+
 <!--
 **luther1014/luther1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
