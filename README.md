@@ -6,7 +6,6 @@
 📊 Learning by breaking things, fixing them, and documenting the chaos  
 
 
-![GitHub stats](https://img.shields.io/github/stars/luther1014?affiliations=OWNER&style=flat)
 
 <!--
 **luther1014/luther1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
