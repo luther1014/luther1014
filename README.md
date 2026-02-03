@@ -1,9 +1,9 @@
-👋 Hey, I’m Luther
+👋 Hey, I’m Luther      
 
-💻 Software Engineer turned CS Master’s student
-🤖 Into AI, Machine Learning & Distributed Systems
-🛠️ Building micro-SaaS, side projects & experiments
-📊 Learning by breaking things, fixing them, and documenting the chaos
+💻 Software Engineer turned CS Master’s student     
+🤖 Into AI, Machine Learning & Distributed Systems       
+🛠️ Building micro-SaaS, side projects & experiments      
+📊 Learning by breaking things, fixing them, and documenting the chaos      
 <!--
 **luther1014/luther1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
