@@ -1,6 +1,6 @@
 👋 Hey, I’m Luther      
 
-💻 Software Engineer turned CS Master’s student     
+💻 Software Engineer transitioning into AI, specializing in building production-ready intelligent systems.     
 🤖 Into AI, Machine Learning & Distributed Systems       
 🛠️ Building micro-SaaS, side projects & experiments      
 📊 Learning by breaking things, fixing them, and documenting the chaos  
